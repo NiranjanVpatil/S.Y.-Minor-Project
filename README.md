@@ -7,6 +7,8 @@ References
 https://www.youtube.com/watch?v=-llHYUMH9Dg
 https://www.youtube.com/watch?v=QUICeT7z-Xw
 
+https://www.learnopencv.com/
+
 
 code link err_code
 https://stackoverflow.com/questions/24385714/detect-text-region-in-image-using-opencv/35078614
